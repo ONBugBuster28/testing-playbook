@@ -1,7 +1,7 @@
 # testing-playbook
 # Manual Testing Project
 
-Welcome to the Manual Testing Project repository! This repository is designed to help you manage manual testing for your software projects effectively.
+Welcome to the #testing-playbook repository! This repository is designed to help you manage manual testing for your software projects effectively.
 
 
 ## Usage
@@ -10,6 +10,7 @@ Explain how to use the manual testing resources and documentation available in t
 
 - How to create and execute test cases.
 - How to report and track issues.
+
 
 ## Satisfying efforts
 
