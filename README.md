@@ -23,4 +23,4 @@ If you have questions, suggestions, or would like to collaborate, please feel fr
 - **Email:** omkarnikalje409@gmail.com
 - **Linkdin:** www.linkedin.com/in/omkar-nikalje-79b5561bb
 
-We welcome your feedback and participation in this manual testing project!
+We welcome your feedback and participation in this testing-playbook project!
